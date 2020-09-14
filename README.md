@@ -1,9 +1,7 @@
-compiladores
-============
+Tarea compiladores
 
-Compiladores FPUNA
+Autor: Melani Bazan melbazan97@gmail.com
 
-Autor: Julio Paciello
-
-Para compilar: gcc anlex.c tablaSimbolos.c -o anlex
-
+Para compilar:
+1. gcc analex.c -o analex
+2. ./analex fuente.txt
